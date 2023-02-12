@@ -1,3 +1,6 @@
+Se pretende subirlo a produccion, pero por ahora se puede correr localmente
+
+
 PARTES DE LA APLICACION: 
 
 LOGIN
