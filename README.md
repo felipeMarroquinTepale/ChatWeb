@@ -11,4 +11,4 @@ REGISTRO
 
 CHAT
 
-[![Captura-de-pantalla-de-2023-02-12-14-04-53.png](https://i.postimg.cc/N06Bby0b/Captura-de-pantalla-de-2023-02-12-14-04-53.png)](https://postimg.cc/t14K44WV)
+[![CHAT-HOME.png](https://i.postimg.cc/tgN7JvFX/CHAT-HOME.png)](https://postimg.cc/McXzrDs4)
