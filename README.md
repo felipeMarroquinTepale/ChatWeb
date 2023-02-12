@@ -2,7 +2,11 @@ PARTES DE LA APLICACION:
 
 LOGIN
 
+  [![CHAT-LOGIN.png](https://i.postimg.cc/MTBP1RKK/CHAT-LOGIN.png)](https://postimg.cc/hzS1BXdH)
+
 REGISTRO
+
+  [![CHAT-REGISTER.png](https://i.postimg.cc/KzdX2x44/CHAT-REGISTER.png)](https://postimg.cc/phYcQNft)
 
 
 CHAT
